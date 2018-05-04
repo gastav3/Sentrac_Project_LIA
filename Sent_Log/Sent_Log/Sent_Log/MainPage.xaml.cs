@@ -13,5 +13,10 @@ namespace Sent_Log
 		{
 			InitializeComponent();
 		}
-	}
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
