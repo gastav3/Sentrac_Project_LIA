@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Sent_Log"
              x:Class="Sent_Log.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
+	<Label Text="OI"
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
