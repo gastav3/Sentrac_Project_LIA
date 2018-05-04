@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Sent_Log"
              x:Class="Sent_Log.MainPage">
 
-    <Label Text="HEJ jeheh" Grid.Row="1" Grid.Column="3" x:Name="LabelTest2" />
+    <Label Text="HEJ gastav" Grid.Row="1" Grid.Column="3" x:Name="LabelTest2" />
 
     <Grid >
         <Grid.RowDefinitions>
