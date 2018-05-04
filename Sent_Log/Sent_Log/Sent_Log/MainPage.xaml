@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Sent_Log"
              x:Class="Sent_Log.MainPage">
 
-	<Label Text="OI NOOB NOOB tgertre"
+	<Label Text="HEJ HOPP"
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
